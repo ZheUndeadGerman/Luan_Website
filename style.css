@@ -41,7 +41,7 @@ h1, h2 {
 }
 
 img.placeholder {
-    max-width: 30%;
+    max-width: 100px;
     height: auto;
     margin: 10px 0;
 }
