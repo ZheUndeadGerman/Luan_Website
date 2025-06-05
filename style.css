@@ -63,8 +63,8 @@ img.Standort {
 img.trainer {
     mergin-left: auto;
     mergin-right: auto;
-    height: auto;
-    width: 30%;
+    height: 20%;
+    width: auto;
 }
 
 table {
