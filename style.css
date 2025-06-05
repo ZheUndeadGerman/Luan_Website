@@ -47,24 +47,21 @@ img.Produkte {
 }
 
 img.Logo_startseite {
-    max-width:100%;
+    max-width: 30%;
     height: auto;
-    margin-left: auto;
-    margin-right: 30%;
+    margin: 10px 0;
 }
 
 img.Standort {
-    margin-left: auto;
-    margin-right: auto;
+    max-width: 30%;
     height: auto;
-    width: 30%;
+    margin: 10px 0;
 }
 
 img.trainer {
-    mergin-left: auto;
-    mergin-right: auto;
-    height: 20%;
-    width: auto;
+    max-width: 30%;
+    height: auto;
+    margin: 10px 0;
 }
 
 table {
