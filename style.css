@@ -51,8 +51,8 @@ img.Produkte {
 img.Logo_startseite {
     max-width: 30%;
     height: auto;
-    margin: 10px 0;
-    float: left;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 img.Standort {
