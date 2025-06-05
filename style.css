@@ -60,6 +60,13 @@ img.Standort {
     width: auto;
 }
 
+img.trainer {
+    mergin-left: auto;
+    mergin-right: auto;
+    height: auto;
+    width: auto;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
