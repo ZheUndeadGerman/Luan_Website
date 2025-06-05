@@ -45,7 +45,6 @@ img.Produkte {
     max-width: 30%;
     height: auto;
     margin: 10px 0;
-    float: left;
 }
 
 img.Logo_startseite {
@@ -59,14 +58,12 @@ img.Standort {
     max-width: 30%;
     height: auto;
     margin: 10px 0;
-    float: left;
 }
 
 img.trainer {
     max-width: 30%;
     height: auto;
     margin: 10px 0;
-    float: left;
 }
 
 table {
