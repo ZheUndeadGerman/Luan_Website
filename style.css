@@ -55,7 +55,7 @@ img.Logo_startseite {
 }
 
 img.Standort {
-    max-width: auto;
+    max-width: 32%;
     height: auto;
     margin: 10px 0;
 }
