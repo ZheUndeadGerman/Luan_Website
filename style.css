@@ -41,7 +41,7 @@ h1, h2 {
 }
 
 img.Produkte {
-    max-width: 100%;
+    max-width: 30%;
     height: auto;
     margin: 10px 0;
 }
@@ -50,21 +50,21 @@ img.Logo_startseite {
     max-width:100%;
     height: auto;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 30%;
 }
 
 img.Standort {
     margin-left: auto;
     margin-right: auto;
     height: auto;
-    width: auto;
+    width: 30%;
 }
 
 img.trainer {
     mergin-left: auto;
     mergin-right: auto;
     height: auto;
-    width: auto;
+    width: 30%;
 }
 
 table {
