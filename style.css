@@ -46,6 +46,20 @@ img.Produkte {
     margin: 10px 0;
 }
 
+img.Logo_startseite {
+    max-width:100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.Standort {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
